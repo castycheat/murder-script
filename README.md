@@ -1,2 +1,0 @@
-# murder-script
-script
